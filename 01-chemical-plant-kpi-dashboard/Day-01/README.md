@@ -74,3 +74,18 @@ Continue learning Excel data analysis and gradually develop this project into an
 This is the beginning of my journey into chemical/petrochemical engineering, energy and data analysis.
 
 **Learning in public, one project at a time.**
+
+
+## Project Preview
+
+### KPI Analysis
+
+![KPI Analysis](kpi-analysis.png)
+
+### Unit Performance
+
+![Unit Performance](unit-performance.png)
+
+### Production Data
+
+![Production Data](production-data.png)
